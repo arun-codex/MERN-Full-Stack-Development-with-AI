@@ -17,7 +17,7 @@ Key goals:
 ## Quick Links
 
 - Repository root: `README.md`
-- Project notes (repo memory): `/memories/repo/PROJECT_MEMORY.md`
+- Project notes (repo memory): `PROJECT_MEMORY.md`
 
 ---
 
@@ -41,7 +41,7 @@ HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Bo
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/mrarunkumar18/MERN-Full-Stack-Development-with-AI.git
+git clone https://github.com/arun-codex/MERN-Full-Stack-Development-with-AI.git
 cd MERN-Full-Stack-Development-with-AI
 ```
 
@@ -104,7 +104,7 @@ If you add a project, include a short `README.md` within that folder with run & 
 
 ## Project Memory & Notes
 
-See `/memories/repo/PROJECT_MEMORY.md` for an ongoing, structured set of project-level decisions, setup instructions, goals, and outstanding tasks.
+See `PROJECT_MEMORY.md` for an ongoing, structured set of project-level decisions, setup instructions, goals, and outstanding tasks.
 
 ---
 
