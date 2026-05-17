@@ -80,6 +80,18 @@ Each folder contains small, self-contained examples that progressively build con
 
 ---
 
+## JavaScript Practice Resources
+
+The `Resources/JavaScript/04_Arrays/` folder contains focused array exercises:
+
+- `script.js` — array basics, traversal, mutation, and common methods
+- `PQ1.js` — average marks practice
+- `PQ2.js` — discount calculation practice
+- `PQ3.JS` — company list mutation practice using `splice`
+- `note.txt` — array theory notes and examples
+
+---
+
 ## Development & Learning Workflow
 
 - Keep lesson code minimal and focused (one concept per file)
