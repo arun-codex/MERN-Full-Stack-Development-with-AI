@@ -102,6 +102,7 @@ root/
         script.js         → array indexing, traversal, mutation, and common methods
         PQ1.js            → average marks practice
         PQ2.js            → price discount practice
+        PQ3.JS            → array mutation practice using splice (Bloomberg, Amazon, Meta)
         note.txt          → theory: arrays, loops, and common array methods
   README.md               → portfolio readme: progress table, notes, setup, future plan
   PROJECT_MEMORY.md       → this file
